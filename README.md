@@ -7,7 +7,6 @@ Player input for force and torque through terminal.
 Multiplayer turn-based system (alternating shots).
 Physics-based collision and realistic ball movement.
 Terminal logs showing ball positions before and after shots.
-Planned extensions: scoring system, visualization, and GitHub documentation (README, demo video).
 
 🔹 Tech Stack:
 Language: Python
@@ -18,3 +17,15 @@ API: ZMQ Remote API
 Applied physics concepts (force, torque, momentum, collision) in a simulated environment.
 Hands-on experience in Python API integration with CoppeliaSim.
 Improved skills in simulation control, debugging, and documentation.
+
+🚀 Features
+- Player input for force and torque through the terminal.  
+- Multiplayer turn-based gameplay (alternating shots).  
+- Physics-based motion and realistic ball dynamics.  
+- Terminal logs showing cue ball and target ball positions.  
+- Planned: scoring system, visualization, and video demo.  
+
+📦 Requirements
+- Python  
+- CoppeliaSim EDU (with ZMQ Remote API enabled)  
+- Python package: pip install coppeliasim-zmqremoteapi-client
