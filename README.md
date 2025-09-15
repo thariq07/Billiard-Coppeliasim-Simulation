@@ -1,4 +1,5 @@
 🎱 Billiard Game Simulation with Python & CoppeliaSim
+
 This project is an interactive billiard game simulation built using Python and CoppeliaSim through the ZMQ Remote API.
 Players can input force and torque via the terminal to control the cue ball (white ball). The simulation supports a multiplayer turn-based system, integrates physics-based motion and collision dynamics, and demonstrates the application of real-world physics in a computational environment.
 
